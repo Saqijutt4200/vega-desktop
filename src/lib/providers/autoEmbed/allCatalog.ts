@@ -2,7 +2,7 @@ export const allCatalog = [
   {
     title: 'Trending Series',
     filter:
-      '/c/catalogs=7d1ea,671a9,cf003,eba63,61f57,60f26,2699b,44ed2,bfb17,ed8a6,f3902,241e6%7Clang=en/catalog/series/trending.series.json',
+      '/ec/catalogs=7d1ea,671a9,cf003,eba63,61f57,60f26,2699b,44ed2,bfb17,ed8a6,f3902,241e6%7Clang=en/catalog/series/trending.series.json',
   },
   {
     title: 'Trending Movies',
